@@ -1,4 +1,4 @@
-### Project Overview
+# Project Overview
 
 This project analyzes customer purchasing behavior, engagement patterns, and discount strategies using an e-commerce transaction dataset containing 17,000+ orders.
 
